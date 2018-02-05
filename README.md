@@ -18,7 +18,7 @@ Run the following command in order to install the dependencies:
 
 If everything went fine, you can see the index page visiting the following URL on your browser:
 
-`http://localhost:8080/`
+`http://localhost:8000/`
 
 # Clean dependencies
 
